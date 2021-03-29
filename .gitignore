@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+.DS_Store
+.metadata
+.project
+/bin/
+.classpath
+.settings/
+/.vscode/
+
 # Log file
 *.log
 
